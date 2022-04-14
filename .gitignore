@@ -1,0 +1,4 @@
+/ssl/cert.key
+/ssl/cert.crt
+/nginx/logs/error.log
+/nginx/logs/access.log
